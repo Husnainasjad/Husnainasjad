@@ -26,20 +26,75 @@
 
 ## 🛠️ Tech Stack
 
-<div>
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,docker,fastapi,sklearn,html,css,js,wordpress,shopify" />
+### 📊 Analytics & Tools
+
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github" />
 
 <br><br>
 
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-76B5C5?style=for-the-badge&logo=seaborn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoft&logoColor=white"/>
+
+<br><br>
+
+### 🤖 Data Science & Machine Learning
+
+<img src="https://skillicons.dev/icons?i=python,sklearn" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Data_Cleaning-4CAF50?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/EDA-2196F3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Statistics-9C27B0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data_Visualization-FF9800?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Feature_Engineering-E91E63?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine_Learning-00BCD4?style=for-the-badge"/>
+
+<br><br>
+
+### 🧠 AI, MLOps & Cloud
+
+<img src="https://skillicons.dev/icons?i=docker,aws,githubactions" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/NLP-8E44AD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-0E75B6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Embeddings-673AB7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vector_Databases-009688?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge&logo=dvc&logoColor=white"/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge"/>
+
+<br><br>
+
+### 🌐 Web Development
+
+<img src="https://skillicons.dev/icons?i=wordpress,html,css,js" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white"/>
+<img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white"/>
+
+<br><br>
+
+### 💼 Professional Skills
+
+<img src="https://img.shields.io/badge/Analytical_Thinking-0E75B6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Problem_Solving-6C5CE7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Project_Management-00A86B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Collaboration-F39C12?style=for-the-badge"/>
 
 </div>
-
 ---
 
 ## 📫 Connect With Me
