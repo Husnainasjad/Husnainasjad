@@ -25,7 +25,7 @@
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<div>
 
 <img src="https://skillicons.dev/icons?i=python,mysql,git,github,docker,fastapi,sklearn,html,css,js,wordpress,shopify" />
 
@@ -43,7 +43,7 @@
 
 ## 📫 Connect With Me
 
-<div align="center">
+<div>
 
 <a href="mailto:husnainasjad121@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
