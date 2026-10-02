@@ -45,34 +45,6 @@ Currently focused on building practical **data, machine learning, and AI solutio
 
 ---
 
-## 🚀 Featured Projects
-
-| Project                                                                                                                        | Technologies                  |
-| ------------------------------------------------------------------------------------------------------------------------------ | ----------------------------- |
-| 📊 [Customer Shopping Behavior](https://github.com/Husnainasjad/Customer-Behaviour-Analysis)                                   | Python · SQL · Power BI       |
-| 🤖 [BookBot AI Assistant](https://github.com/Husnainasjad/book-ai-agent)                                                       | Python · FastAPI · RAG · LLM  |
-| 🚦 [Spark Traffic MLOps](https://github.com/sharjeel-ahmed17/spark-traffic-mlops)                                              | MLflow · DVC · Docker · CI/CD |
-| 🚗 [Car Price EDA](https://github.com/Husnainasjad/Car-Price-Data-Cleaning)                                                    | Python · Pandas · EDA         |
-| 🎉 [Excel Power Query Analysis](https://github.com/Husnainasjad/Analysis-of-Celebration-Items-Dataset-using-Excel-Power-Query) | Excel · Power Query           |
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Husnainasjad&show_icons=true&hide_border=true&rank_icon=github" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Husnainasjad&layout=compact&hide_border=true" />
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Husnainasjad&hide_border=true" />
-
-</div>
-
----
-
 ## 📫 Connect With Me
 
 <div align="center">
