@@ -26,13 +26,12 @@
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<div>
 
 ### 📊 Analytics & Tools
 
 <img src="https://skillicons.dev/icons?i=python,mysql,git,github" />
 
-<br><br>
 
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
@@ -47,7 +46,6 @@
 
 <img src="https://skillicons.dev/icons?i=python,sklearn" />
 
-<br><br>
 
 <img src="https://img.shields.io/badge/Data_Cleaning-4CAF50?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/EDA-2196F3?style=for-the-badge"/>
@@ -62,7 +60,6 @@
 
 <img src="https://skillicons.dev/icons?i=docker,aws,githubactions" />
 
-<br><br>
 
 <img src="https://img.shields.io/badge/NLP-8E44AD?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LLMs-FF6F00?style=for-the-badge"/>
@@ -80,7 +77,6 @@
 
 <img src="https://skillicons.dev/icons?i=wordpress,html,css,js" />
 
-<br><br>
 
 <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white"/>
 <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white"/>
