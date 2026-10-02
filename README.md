@@ -21,9 +21,14 @@
 
 ## 🧑‍💻 About Me
 
-Computer Science graduate and **Data Scientist** with hands-on experience in **Python, SQL, Excel, Power BI, Machine Learning, AI, and MLOps**. I also have **2.5+ years of professional web development and eCommerce experience**, working with Shopify and WordPress and real-world business data.
-
-Currently focused on building practical **data, machine learning, and AI solutions**.
+🔭 Working on Data Science, Machine Learning & AI projects
+🐍 Working with Python, SQL, Pandas, NumPy & Scikit-learn
+📊 Experienced with Data Analysis, EDA, Excel & Power BI
+🤖 Exploring Generative AI, LLMs, RAG & MLOps
+🌐 2.5+ years of experience in Web Development & eCommerce
+🛍️ Experienced with Shopify, WordPress & WooCommerce
+💡 Interested in solving real-world problems using data and technology
+🎓 BS Computer Science graduate from Bahria University Karachi
 
 ---
 
