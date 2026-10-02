@@ -21,14 +21,14 @@
 
 ## 🧑‍💻 About Me
 
-🔭 Working on Data Science, Machine Learning & AI projects
-🐍 Working with Python, SQL, Pandas, NumPy & Scikit-learn
-📊 Experienced with Data Analysis, EDA, Excel & Power BI
-🤖 Exploring Generative AI, LLMs, RAG & MLOps
-🌐 2.5+ years of experience in Web Development & eCommerce
-🛍️ Experienced with Shopify, WordPress & WooCommerce
-💡 Interested in solving real-world problems using data and technology
-🎓 BS Computer Science graduate from Bahria University Karachi
+* 🔭 Working on **Data Science, Machine Learning & AI projects**
+* 🐍 Working with **Python, SQL, Pandas, NumPy & Scikit-learn**
+* 📊 Experienced with **Data Analysis, EDA, Excel & Power BI**
+* 🤖 Exploring **Generative AI, LLMs, RAG & MLOps**
+* 🌐 2.5+ years of experience in **Web Development & eCommerce**
+* 🛍️ Experienced with **Shopify, WordPress & WooCommerce**
+* 💡 Interested in solving **real-world problems using data and technology**
+* 🎓 BS Computer Science graduate from **Bahria University Karachi**
 
 ---
 
@@ -71,3 +71,5 @@
 **Building Digital Experiences. Turning Data Into Insights.**
 
 </div>
+
+
