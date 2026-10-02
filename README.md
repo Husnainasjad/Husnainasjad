@@ -2,18 +2,9 @@
 
 # 👋 Hi, I'm **Husnain Asjad**
 
-### Data Scientist | Data Analyst | Web Developer
+### 🚀 Data Scientist | Data Analyst | Web Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Python+%7C+SQL+%7C+Pandas+%7C+Power+BI;Machine+Learning+%7C+AI+%7C+RAG+%7C+MLOps;Shopify+%7C+WordPress+%7C+eCommerce;Turning+Data+Into+Insights+%7C+Building+Digital+Solutions" alt="Skills Animation" />
-
-<p>
-<a href="https://github.com/Husnainasjad">
-<img src="https://komarev.com/ghpvc/?username=Husnainasjad&style=flat&label=Profile+Views"/>
-</a>
-<a href="https://www.linkedin.com/in/husnain-asjad/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin"/>
-</a>
-</p>
 
 </div>
 
