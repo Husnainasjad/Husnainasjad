@@ -1,118 +1,346 @@
+<!-- ========================= HEADER ========================= -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Husnain%20Asjad&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%26%20Data%20Scientist&descAlignY=58&descSize=20" width="100%" alt="header" />
+# 👋 Hi, I'm **Husnain Asjad**
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2C9CDB&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+business+insights;Machine+Learning+%7C+Generative+AI+%7C+LLMs;Building+Agentic+AI+and+RAG+systems;Always+eager+to+learn+and+build" alt="Typing SVG" />
+### Web Developer · Data Analyst · Aspiring Data Scientist
+
+**Building Digital Experiences. Turning Data Into Insights.**
+
+<p>
+  <a href="https://github.com/Husnainasjad">
+    <img src="https://komarev.com/ghpvc/?username=Husnainasjad&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/Husnainasjad?tab=followers">
+    <img src="https://img.shields.io/github/followers/Husnainasjad?label=Followers&style=flat" alt="GitHub Followers"/>
+  </a>
+</p>
+
+</div>
+
+<!-- ========================= INTRO ========================= -->
+
+## 🚀 About Me
+
+I'm a **Computer Science graduate** with **2.5+ years of professional web development and eCommerce experience**, mainly working with Shopify and WordPress.
+
+Alongside web development, I have worked with **product, customer, marketing, and website data**, which led me to develop a strong interest in **data analytics, machine learning, and AI**.
+
+Currently, I'm building practical projects using **Python, SQL, Excel, Power BI, Machine Learning, AI, and MLOps**, while continuing to strengthen my data skills.
+
+```text
+Web & eCommerce
+       ↓
+Data Management & Analytics
+       ↓
+Machine Learning
+       ↓
+AI & MLOps
+```
+
+---
+
+## 🧑‍💻 What I Work With
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 Data & Analytics
+
+* Python
+* SQL
+* Pandas & NumPy
+* Excel & Power Query
+* Power BI
+* Data Cleaning
+* EDA
+* Data Visualization
+* Statistical Analysis
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🤖 AI & Machine Learning
+
+* Scikit-learn
+* Regression & Classification
+* Feature Engineering
+* NLP
+* LLMs
+* RAG
+* Embeddings
+* AI Applications
+* MLOps
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ Development & Deployment
+
+* FastAPI
+* Docker
+* MLflow
+* DVC
+* GitHub Actions
+* CI/CD
+* REST APIs
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌐 Web & eCommerce
+
+* Shopify
+* Shopify Liquid
+* WordPress
+* WooCommerce
+* HTML
+* CSS
+* JavaScript
+* Matrixify
+* Theme Customization
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages & Data
+
+<img src="https://skillicons.dev/icons?i=python,mysql,js,html,css" />
+
+<br><br>
+
+### Data, ML & AI
+
+<img src="https://skillicons.dev/icons?i=sklearn,tensorflow" />
+
+<br><br>
+
+### Development & Tools
+
+<img src="https://skillicons.dev/icons?i=fastapi,docker,git,github,githubactions" />
+
+<br><br>
+
+### Web & eCommerce
+
+<img src="https://skillicons.dev/icons?i=shopify,wordpress" />
+
+</div>
+
+---
+
+# 📊 GitHub Activity
+
+<div align="center">
+
+<a href="https://github.com/Husnainasjad">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Husnainasjad&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
 </a>
 
-<br/>
+<a href="https://github.com/Husnainasjad">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Husnainasjad&layout=compact&hide_border=true&langs_count=8" />
+</a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Husnainasjad&label=Profile%20Views&color=2c5364&style=flat-square)
-[![Followers](https://img.shields.io/github/followers/Husnainasjad?label=Followers&style=flat-square&color=2c5364)](https://github.com/Husnainasjad?tab=followers)
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@example.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/YOUR-KAGGLE-USERNAME)
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Husnainasjad&hide_border=true" />
 
 </div>
 
 ---
 
-## 👋 About Me
-
-I'm a **Data Analyst & Data Scientist** who enjoys turning messy data into clear, actionable insights. My work spans the full data journey: cleaning and analysis, dashboards, machine learning, and building AI-powered applications.
-
-- 🔭 Currently exploring **Generative AI, Agentic AI, and LLM applications (RAG)**
-- 📊 Building analytics projects with **Python, SQL, Power BI, and Excel**
-- ⚙️ Learning **MLOps**: pipelines, tracking, Docker, and CI/CD
-- 🌱 Always learning, always building
-- 💬 Ask me about **data analysis, machine learning, and AI agents**
-
----
-
-## 🛠️ Tech Stack
-
-**Languages & Querying**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Data Analysis & Visualization**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-
-**Machine Learning & AI**
-
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-**MLOps & Tools**
-
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![DVC](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| 📈 [**Customer Behaviour Analysis**](https://github.com/Husnainasjad/Customer-Behaviour-Analysis) | End-to-end analysis of customer behavior to uncover purchasing patterns and trends | Python · SQL · Power BI |
-| 🤖 [**Book AI Agent**](https://github.com/Husnainasjad/book-ai-agent) | AI-powered book recommendation agent using Retrieval-Augmented Generation (RAG) | Python · RAG · LLMs |
-| 🚦 [**Spark Traffic MLOps**](https://github.com/sharjeel-ahmed17/spark-traffic-mlops) | End-to-end MLOps pipeline for traffic vehicle prediction with CI/CD | PySpark · MLflow · DVC · FastAPI · Docker · Kubernetes |
-| 🚗 [**Car Price Data Cleaning**](https://github.com/Husnainasjad/Car-Price-Data-Cleaning) | Cleaned and preprocessed a highly messy dataset to make it analysis-ready | Python · Pandas |
-| 🎉 [**Celebration Items Analysis**](https://github.com/Husnainasjad/Analysis-of-Celebration-Items-Dataset-using-Excel-Power-Query) | Cleaned and transformed occasion-based product data for insights | Excel · Power Query |
-| 🗄️ [**SQL Practise**](https://github.com/Husnainasjad/Sql-Practise) | Solved real-world SQL queries to sharpen querying skills | SQL |
-
----
-
-## 📊 GitHub Stats
+# 🔥 Contribution Activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Husnainasjad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Husnainasjad&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Husnainasjad&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Husnainasjad&hide_border=true&area=true" width="95%"/>
 
 </div>
 
 ---
 
-## 🎯 Currently Working Towards
-
-- [x] Data cleaning and exploratory analysis projects
-- [x] Dashboards with Power BI
-- [x] RAG-based AI agent
-- [ ] More end-to-end machine learning projects
-- [ ] Deploying ML models with FastAPI and Docker
-- [ ] Multi-agent systems with LLMs
-
----
-
-## 🤝 Let's Connect
-
-I'm open to **collaborations, internships, and data/AI opportunities**. If you have a project in mind or just want to talk data, feel free to reach out.
+# 🚀 Featured Projects
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="footer" />
+### 📊 Customer Shopping Behavior Analysis
 
-⭐ *If you like my work, consider giving a star to my repositories!* ⭐
+<a href="https://github.com/Husnainasjad/Customer-Behaviour-Analysis">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Husnainasjad&repo=Customer-Behaviour-Analysis&hide_border=true" />
+
+</a>
+
+**Python · SQL · Power BI · EDA**
+
+Customer behavior analysis project involving data exploration, SQL analysis, business insights, and an interactive Power BI dashboard.
+
+---
+
+### 🤖 BookBot — AI-Powered Shopify Bookstore Assistant
+
+<a href="https://github.com/Husnainasjad/book-ai-agent">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Husnainasjad&repo=book-ai-agent&hide_border=true" />
+
+</a>
+
+**Python · FastAPI · Shopify · RAG · LLM · ChromaDB**
+
+AI-powered bookstore assistant combining Shopify catalog data, semantic search, structured filtering, embeddings, and RAG.
+
+---
+
+### 🚦 Spark Traffic MLOps
+
+<a href="https://github.com/sharjeel-ahmed17/spark-traffic-mlops">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sharjeel-ahmed17&repo=spark-traffic-mlops&hide_border=true" />
+
+</a>
+
+**Python · FastAPI · MLflow · DVC · Docker · CI/CD**
+
+End-to-end machine learning/MLOps workflow involving data versioning, experiment tracking, model serving, Docker, and CI/CD.
+
+---
+
+### 🚗 Car Price Data Cleaning & EDA
+
+<a href="https://github.com/Husnainasjad/Car-Price-Data-Cleaning">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Husnainasjad&repo=Car-Price-Data-Cleaning&hide_border=true" />
+
+</a>
+
+**Python · Pandas · NumPy · EDA**
+
+Data cleaning and exploratory analysis of a car-price dataset, including missing values, duplicates, inconsistencies, trends, and outliers.
+
+</div>
+
+---
+
+# 🧠 More Projects
+
+| Project                                                                                                                        | Focus                    | Tools                          |
+| ------------------------------------------------------------------------------------------------------------------------------ | ------------------------ | ------------------------------ |
+| 🎉 [Celebration Items Analysis](https://github.com/Husnainasjad/Analysis-of-Celebration-Items-Dataset-using-Excel-Power-Query) | Data Cleaning & Analysis | Excel · Power Query            |
+| 💰 Salary Prediction                                                                                                           | Machine Learning         | Python · Pandas · Scikit-learn |
+| 🤖 BookBot                                                                                                                     | AI / RAG                 | Python · FastAPI · Shopify     |
+| 🚦 Spark Traffic MLOps                                                                                                         | MLOps                    | MLflow · DVC · Docker          |
+| 📊 Customer Behavior                                                                                                           | Analytics                | Python · SQL · Power BI        |
+| 🚗 Car Price EDA                                                                                                               | Data Analysis            | Python · Pandas                |
+
+---
+
+# 🌐 Web & eCommerce Work
+
+Before moving deeper into data and AI, I built and worked on **60+ eCommerce and corporate websites** using Shopify and WordPress.
+
+### Selected Work
+
+<p align="center">
+
+<a href="https://vanguardbooks.com/">Vanguard Books</a> · <a href="https://muatar.com/">Muatar</a> · <a href="https://solebox.pk/">Solebox</a> · <a href="https://dealsexpress.pk/">Deals Express</a> · <a href="https://matchstickapparel.com/">Matchstick Apparel</a>
+
+<br>
+
+<a href="https://iteesonline.com/">Itees Online</a> · <a href="https://novusconsultancygroup.com/">Novus Consultancy Group</a> · <a href="https://ozbix.com/">Ozbix</a>
+
+</p>
+
+---
+
+# 📚 Currently Learning
+
+```text
+Advanced Data Analytics
+        │
+        ├── Machine Learning
+        │
+        ├── Deep Learning
+        │
+        ├── MLOps
+        │
+        ├── Generative AI
+        │
+        ├── LLM Applications
+        │
+        ├── RAG & Agentic AI
+        │
+        └── Cloud & Deployment
+```
+
+I focus on learning through **practical projects**, experimentation, and building working solutions rather than only following tutorials.
+
+---
+
+# 🎯 Career Focus
+
+I'm currently looking for **entry-level opportunities in Data Analytics, Data Science, Business Intelligence, or related data roles**.
+
+I'm also open to:
+
+* Freelance projects
+* eCommerce projects
+* Data analysis work
+* AI/ML projects
+* Technical collaborations
+* Learning-focused opportunities
+
+---
+
+# 🎓 Education
+
+**BS Computer Science**
+Bahria University Karachi · 2019–2023
+
+**AI & Data Science Program**
+Saylani Mass IT Training Institute · 2025–2026
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="mailto:husnainasjad121@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/husnain-asjad/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Husnainasjad">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 💡 Building Digital Experiences. Turning Data Into Insights.
 
 </div>
